@@ -34,11 +34,6 @@ gradle
 .gradletasknamecache
 gradle-app.setting
 !gradle-wrapper.jar
-<<<<<<< HEAD
-gradle
-gradle-wrapper.jar
-=======
->>>>>>> e9b438ecd39a11b2b541d5d0f7ed7b3973e6afb5
 build.gradle
 gradlew
 gradlew.bat
